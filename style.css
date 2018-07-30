@@ -1,0 +1,35 @@
+body {
+    background: orange;
+}
+
+.container {
+    font-size: 40px;
+    background: gray;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 150px 150px;
+}
+
+#boxA {
+    background: blue;
+}
+
+#boxB {
+    background: red;
+}
+
+.container2 {
+    font-size: 20px;
+    background: gray;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 120px 120px;
+}
+
+#boxC {
+    background: green;
+}
+
+#boxD {
+    background: yellow;
+}
